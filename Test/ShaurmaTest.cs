@@ -63,7 +63,7 @@ namespace Shaurma.Tests
         [Test]
         public void call_string()
         {
-            Assert.That(new Shaurma().call(), Is.EqualTo("Sweet shaurma, come up!"));
+            Assert.That(new Shaurma().call(), Is.EqualTo("Sweet shaurma, come up!!!"));
         }
         [Test]
         public void setPrice_cost10_void()
