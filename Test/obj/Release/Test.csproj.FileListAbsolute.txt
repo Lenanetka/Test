@@ -1,0 +1,9 @@
+d:\Documents\Visual Studio 2017\Projects\Test\Test\bin\Release\Test.dll
+d:\Documents\Visual Studio 2017\Projects\Test\Test\bin\Release\Test.pdb
+d:\Documents\Visual Studio 2017\Projects\Test\Test\bin\Release\nunit.framework.dll
+d:\Documents\Visual Studio 2017\Projects\Test\Test\bin\Release\nunit.framework.pdb
+d:\Documents\Visual Studio 2017\Projects\Test\Test\bin\Release\nunit.framework.xml
+d:\Documents\Visual Studio 2017\Projects\Test\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\Test\Test\obj\Release\Test.csproj.CopyComplete
+d:\Documents\Visual Studio 2017\Projects\Test\Test\obj\Release\Test.dll
+d:\Documents\Visual Studio 2017\Projects\Test\Test\obj\Release\Test.pdb
