@@ -15,7 +15,7 @@ namespace Shaurma
         }
         public string call()
         {
-            return "Sweet shaurma, come up!";
+            return "Sweet shaurma, come up!!!";
         }
         public void setPrice(int cost)
         {
